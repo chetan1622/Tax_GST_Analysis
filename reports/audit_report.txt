@@ -1,0 +1,145 @@
+=================================================================
+  GST TAX COMPLIANCE AUDIT ENGINE — STARTING
+=================================================================
+  Invoices loaded : 50,000
+  Vendors loaded  : 500
+
+------------------------------------------------------------
+  RULE 1 — IGST Misclassification Check
+------------------------------------------------------------
+  Inter-state invoices flagged : 6,237
+  As % of all inter-state      : 13.2%
+  Total IGST Leakage           : ₹12,066,017,458
+  Avg Leakage per Invoice      : ₹1,934,587
+
+  Top 5 States with highest IGST misclassification:
+supplier_state
+Odisha            7.591520e+08
+Delhi             7.347231e+08
+Karnataka         7.284810e+08
+Andhra Pradesh    7.195876e+08
+Bihar             7.141501e+08
+
+------------------------------------------------------------
+  RULE 2 — HSN Code Rate Validation
+------------------------------------------------------------
+  Invoices with rate errors : 7,090
+  Over-Charged invoices     : 1,655
+  Under-Charged invoices    : 5,435
+  Net Rate Error Leakage    : ₹943,701,272
+
+  HSN-wise rate errors:
+                                count  total_leakage
+hsn_code item_description                           
+901      Coffee & Tea            3377  -3.909964e+08
+6101     Clothing & Apparel       299  -3.916662e+08
+8516     Electronic Appliances    291   2.614122e+08
+9403     Furniture                291   2.891590e+08
+7204     Steel Scrap              284   2.589815e+08
+3304     Cosmetics                283   2.616754e+08
+8703     Motor Cars               267   6.593798e+08
+3004     Pharmaceutical Drugs     260  -2.320676e+07
+
+------------------------------------------------------------
+  RULE 3 — Missing / Invalid GSTIN Detection
+------------------------------------------------------------
+  Invoices with invalid buyer GSTIN : 2,563
+  ITC Loss to Buyer (cannot claim)  : ₹4,522,252,533
+  States most affected:
+buyer_state
+Punjab        173
+Odisha        164
+Tamil Nadu    161
+Karnataka     157
+Gujarat       156
+
+------------------------------------------------------------
+  RULE 4 — ITC Recovery Opportunity
+------------------------------------------------------------
+  Invoices with unclaimed ITC : 5,877
+  Total Recoverable ITC       : ₹5,240,718,403
+
+  State-wise unclaimed ITC (Top 5):
+buyer_state
+Gujarat           3.714504e+08
+Jharkhand         3.621277e+08
+Andhra Pradesh    3.342370e+08
+Delhi             3.320187e+08
+Haryana           3.252554e+08
+
+  HSN-wise unclaimed ITC (Top 5):
+hsn_code  item_description     
+2204      Wine & Alcohol           6.684062e+08
+8703      Motor Cars               6.664633e+08
+8516      Electronic Appliances    4.878547e+08
+8517      Telecom Equipment        4.538892e+08
+7204      Steel Scrap              4.270779e+08
+
+------------------------------------------------------------
+  RULE 5 — Vendor Compliance Scoring
+------------------------------------------------------------
+  States with <80% compliance : 18
+  Total tax exposure (non-compliant states) : ₹943,701,271
+
+  State compliance breakdown:
+ supplier_state  total_invoices  compliant  total_leakage  total_tax_value  compliance_rate       risk_flag
+          Bihar            2771       2001    36531005.18     4.926874e+09            72.21 NON-COMPLIANT ❌
+        Haryana            2732       1980    63409378.01     4.714365e+09            72.47 NON-COMPLIANT ❌
+  Uttar Pradesh            2713       1971    32951649.36     4.811256e+09            72.65 NON-COMPLIANT ❌
+    West Bengal            2681       1952    33512644.79     4.872798e+09            72.81 NON-COMPLIANT ❌
+     Tamil Nadu            2873       2092   111788670.30     5.135727e+09            72.82 NON-COMPLIANT ❌
+         Odisha            2879       2102    19735777.04     5.078383e+09            73.01 NON-COMPLIANT ❌
+          Delhi            2809       2053    53783309.84     5.114764e+09            73.09 NON-COMPLIANT ❌
+ Andhra Pradesh            2820       2067    60969978.45     4.939989e+09            73.30 NON-COMPLIANT ❌
+      Jharkhand            2763       2026    81799491.26     4.723669e+09            73.33 NON-COMPLIANT ❌
+        Gujarat            2747       2018    26680256.98     4.704395e+09            73.46 NON-COMPLIANT ❌
+ Madhya Pradesh            2807       2064    79925016.87     5.080074e+09            73.53 NON-COMPLIANT ❌
+Jammu & Kashmir            2736       2019    66930343.92     4.897571e+09            73.79 NON-COMPLIANT ❌
+    Maharashtra            2688       1995    27383373.99     4.822062e+09            74.22 NON-COMPLIANT ❌
+      Rajasthan            2711       2019    78955388.34     4.765591e+09            74.47 NON-COMPLIANT ❌
+      Telangana            2757       2056    26202582.23     4.786155e+09            74.57 NON-COMPLIANT ❌
+      Karnataka            2836       2120    25013483.93     5.122706e+09            74.75 NON-COMPLIANT ❌
+         Kerala            2824       2112    71601602.53     4.868374e+09            74.79 NON-COMPLIANT ❌
+         Punjab            2853       2149    46527318.08     4.912070e+09            75.32 NON-COMPLIANT ❌
+
+------------------------------------------------------------
+  RULE 6 — High-Value Invoice Audit Trigger List
+------------------------------------------------------------
+  High-value non-compliant invoices : 12,481
+  Total Tax Leakage (these)         : ₹943,041,970
+
+  TOP 10 PRIORITY AUDIT INVOICES:
+     invoice_id invoice_date  taxable_value_inr  tax_leakage_inr compliance_status  audit_risk_score
+INV-2023-049915   2023-06-22        25838975.47       1291948.77        Rate Error               100
+INV-2023-049914   2023-08-16        10837925.09       -650275.51        Rate Error               100
+INV-2024-049911   2024-09-19          858243.74         51494.62        Rate Error               100
+INV-2023-049899   2023-06-25         9241384.08       1108966.09        Rate Error               100
+INV-2023-049887   2023-05-16        22821840.12       1369310.41        Rate Error               100
+INV-2023-000103   2023-12-08         2690775.73        349800.86        Rate Error               100
+INV-2023-000069   2023-10-18         3500797.76       -455103.72        Rate Error               100
+INV-2023-049869   2023-11-14          824165.68        148349.82        Rate Error               100
+INV-2023-049814   2023-09-09         5539443.42        720127.65        Rate Error               100
+INV-2024-049802   2024-05-05        18754124.80      -2438036.22        Rate Error               100
+
+
+=================================================================
+  GST COMPLIANCE AUDIT REPORT
+  Generated: 2026-10-05 17:19:24
+=================================================================
+  Total Invoices Analyzed        : 50,000
+  Compliant Invoices             : 36,796 (73.6%)
+  Non-Compliant Invoices         : 13,204 (26.4%)
+
+  TAX LEAKAGE SUMMARY:
+    IGST Misclassification       : ₹12,066,017,458
+    Wrong Rate Applied           : ₹943,701,272
+    Net Total Tax Leakage        : ₹943,701,271
+
+  ITC RECOVERY OPPORTUNITY:
+    Unclaimed ITC Amount         : ₹5,240,718,403
+    Invalid GSTIN ITC Loss       : ₹4,522,252,533
+    Total Recoverable            : ₹9,762,970,936
+
+  HIGH RISK Invoices (score>70)  : 8,173
+  Priority Audit Invoices (>5L)  : 12,481
+=================================================================

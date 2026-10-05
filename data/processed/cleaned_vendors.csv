@@ -1,0 +1,501 @@
+vendor_id,vendor_name,gstin,state,state_code,city,contact_email,total_invoices,compliance_rate_pct,avg_itc_delay_days,vendor_risk_category,gstin_valid
+VND-001,Adani Logistics Tak & Co,08GDCTO5002T1Z9,Rajasthan,8,Kolhapur,hiralrana@example.com,111,60.98,83,High,True
+VND-002,Marico Distribution Sharaf & Co,23PVAUS3193C7Z2,Madhya Pradesh,23,Muzaffarnagar,sankaranbalendra@example.net,193,76.36,44,Medium,True
+VND-003,Marico Distribution Gara & Co,21NZJOV6857B4Z5,Odisha,21,Hajipur,onkar14@example.com,50,91.48,29,Low,True
+VND-004,Marico Distribution Khanna & Co,08QJJFG9661X4Z3,Rajasthan,8,Guntur,charandash@example.net,246,74.82,48,High,True
+VND-005,Sun Pharma Wali & Co,21FITBV8409S6Z4,Odisha,21,Ichalkaranji,gbose@example.com,345,98.59,63,Low,True
+VND-006,Marico Distribution Mall & Co,33DDTOT4539E9Z8,Tamil Nadu,33,Tirupati,girindrajhaveri@example.org,56,94.5,6,Low,True
+VND-007,HDFC Trade Chandran & Co,08UKBJZ5980X2Z9,Rajasthan,8,Ratlam,tanejarachit@example.org,394,65.96,34,High,True
+VND-008,Dabur India Sabharwal & Co,29EASSZ7516U9Z4,Karnataka,29,Tezpur,tanay89@example.net,88,64.35,47,High,True
+VND-009,Larsen & Toubro Ganguly & Co,10XPMCJ9822S2Z2,Bihar,10,Ichalkaranji,kritika34@example.com,384,81.04,62,Medium,True
+VND-010,Sun Pharma Char & Co,07TDMOG8425X4Z5,Delhi,7,Nashik,ycheema@example.com,214,98.14,85,Low,True
+VND-011,Larsen & Toubro Mukhopadhyay & Co,32LGBAO5070C1Z6,Kerala,32,Hajipur,rohandhawan@example.org,46,77.09,65,Medium,True
+VND-012,Hero Motors Handa & Co,20FDYOM7810N6Z7,Jharkhand,20,Morbi,nidhi34@example.com,220,70.86,59,High,True
+VND-013,Infosys BPO Chokshi & Co,06BSUCE5114C8Z9,Haryana,6,Imphal,sudiksha40@example.net,60,86.26,6,Medium,True
+VND-014,Mahindra Logistics Dutt & Co,23YWEMF4039I8Z5,Madhya Pradesh,23,Kochi,galafaraj@example.com,226,92.61,89,Low,True
+VND-015,Hero Motors Varughese & Co,23EHZPO7055Q3Z1,Madhya Pradesh,23,Nashik,nchada@example.org,270,85.81,10,Medium,True
+VND-016,Mahindra Logistics Rastogi & Co,10RGDXG5645Q6Z5,Bihar,10,Etawah,urvi65@example.org,114,62.67,85,High,True
+VND-017,HUL Supply Chain Dua & Co,29DQLYY0650R4Z9,Karnataka,29,Etawah,chhabraadweta@example.org,145,69.31,16,High,True
+VND-018,Asian Paints Supply Borah & Co,32JEVSP9608J2Z3,Kerala,32,Adoni,nkumar@example.net,145,94.35,14,Low,True
+VND-019,Wipro Enterprises Lall & Co,08HPSFQ2498C7Z5,Rajasthan,8,Sasaram,jagrati35@example.net,32,88.95,0,Medium,True
+VND-020,Adani Logistics Lata & Co,29ELSOC9610L9Z3,Karnataka,29,Panihati,nitesh93@example.net,230,90.07,16,Low,True
+VND-021,Tata Steel Mangal & Co,06XFGCU8461H3Z3,Haryana,6,Chinsurah,anthonymohanty@example.org,461,72.02,52,High,True
+VND-022,Godrej Distribution Bandi & Co,01UKRTG1730P4Z4,Jammu & Kashmir,1,Latur,fkade@example.org,428,67.0,58,High,True
+VND-023,Asian Paints Supply Bora & Co,32FRKHB7356R6Z1,Kerala,32,Jamalpur,xseshadri@example.com,69,71.9,33,High,True
+VND-024,Adani Logistics Balan & Co,10APIUL9181B7Z1,Bihar,10,Baranagar,ajayaraman@example.net,276,82.64,68,Medium,True
+VND-025,Mahindra Logistics Kalita & Co,19YXQRD9563W5Z9,West Bengal,19,Vasai-Virar,wahabvenkataraman@example.net,75,74.2,24,High,True
+VND-026,HUL Supply Chain Sinha & Co,36RXQHO0245U6Z8,Telangana,36,Jalandhar,akhanna@example.net,236,85.93,56,Medium,True
+VND-027,HDFC Trade Wagle & Co,19RHRQC9238E1Z1,West Bengal,19,Bally,krisha36@example.com,135,79.94,60,Medium,True
+VND-028,Dr Reddy Chemicals Subramanian & Co,07FSMGR0771N4Z3,Delhi,7,Muzaffarnagar,lallafrederick@example.net,421,77.76,89,Medium,True
+VND-029,Sun Pharma Gola & Co,03GWLUR9598T9Z7,Punjab,3,Bharatpur,nchaudhari@example.com,435,78.12,70,Medium,True
+VND-030,Hero Motors Khurana & Co,37LTVHU4247H5Z6,Andhra Pradesh,37,Jabalpur,yashasvi91@example.net,173,94.99,69,Low,True
+VND-031,Asian Paints Supply Dara & Co,07JDFKI4083Y1Z7,Delhi,7,Sambalpur,anvimanne@example.com,254,65.4,0,High,True
+VND-032,HUL Supply Chain Bali & Co,32WYKTO6224A7Z6,Kerala,32,New Delhi,atharvkothari@example.com,352,71.65,86,High,True
+VND-033,Marico Distribution Vora & Co,33XZNXP6048F1Z5,Tamil Nadu,33,Kolkata,udarshsharaf@example.net,204,88.24,41,Medium,True
+VND-034,Godrej Distribution Singhal & Co,19TJTVG0059L4Z2,West Bengal,19,Ludhiana,ranganathanrushil@example.com,409,77.73,83,Medium,True
+VND-035,Asian Paints Supply Bhargava & Co,06FADDR5267F2Z3,Haryana,6,Mumbai,samaksh00@example.com,169,89.42,13,Medium,True
+VND-036,Dr Reddy Chemicals Gaba & Co,01RYKSB6617V2Z1,Jammu & Kashmir,1,Mango,krishnabiswas@example.com,187,96.23,68,Low,True
+VND-037,Mahindra Logistics Doshi & Co,36NIWVC9687N3Z9,Telangana,36,Ajmer,alata@example.org,343,85.8,34,Medium,True
+VND-038,Marico Distribution Malhotra & Co,23LTGWV0824T7Z6,Madhya Pradesh,23,Aligarh,urminarula@example.com,24,90.21,63,Low,True
+VND-039,Bajaj Industries Wagle & Co,29JGHPW5512N8Z9,Karnataka,29,Bidar,mwalla@example.net,398,67.09,30,High,True
+VND-040,Hero Motors Yadav & Co,24LAHKG6353X9Z6,Gujarat,24,Solapur,ekiyabandi@example.com,190,85.19,89,Medium,True
+VND-041,Adani Logistics Hans & Co,37FSITY6172S9Z5,Andhra Pradesh,37,Kollam,sonihiral@example.org,61,70.57,24,High,True
+VND-042,HDFC Trade Sane & Co,27HSDBB2967D1Z5,Maharashtra,27,Pali,nsane@example.com,250,68.87,61,High,True
+VND-043,Tata Steel Garg & Co,37GWCBM5618J2Z4,Andhra Pradesh,37,Ahmedabad,yug47@example.org,70,73.29,71,High,True
+VND-044,Cipla Pharma Sen & Co,36FNLLW9366X2Z4,Telangana,36,Panipat,tmalhotra@example.net,330,83.65,27,Medium,True
+VND-045,HDFC Trade Sha & Co,21GOEKR4022O2Z4,Odisha,21,Sikar,adwetasingh@example.com,483,85.76,33,Medium,True
+VND-046,Sun Pharma Chacko & Co,19FDGDB7589O2Z8,West Bengal,19,Sagar,upasna03@example.com,362,76.58,38,Medium,True
+VND-047,Larsen & Toubro Radhakrishnan & Co,33OLPXT6026S1Z5,Tamil Nadu,33,Anand,bhallasarthak@example.net,305,96.76,5,Low,True
+VND-048,Marico Distribution Bobal & Co,10XEPQM0336F6Z7,Bihar,10,Darbhanga,chaitaly38@example.org,365,78.35,63,Medium,True
+VND-049,HUL Supply Chain Thaman & Co,27VOLII9459V9Z8,Maharashtra,27,Amravati,anandadvaith@example.net,221,85.84,6,Medium,True
+VND-050,Cipla Pharma Borah & Co,19TQTFO9461U4Z3,West Bengal,19,Raiganj,ekta97@example.net,169,80.22,70,Medium,True
+VND-051,Mahindra Logistics Sandal & Co,01FVCYQ1927N8Z8,Jammu & Kashmir,1,Tadipatri,cpathak@example.org,134,81.54,58,Medium,True
+VND-052,Bajaj Industries Halder & Co,23XNWWH7495A5Z5,Madhya Pradesh,23,Bharatpur,zjohal@example.net,438,65.64,75,High,True
+VND-053,Marico Distribution Bhandari & Co,24OIOOL3165H7Z1,Gujarat,24,Erode,darzehaan@example.com,172,93.75,60,Low,True
+VND-054,Wipro Enterprises Nayar & Co,33MANPW8454X3Z7,Tamil Nadu,33,Karawal Nagar,henry84@example.net,455,75.06,83,Medium,True
+VND-055,Adani Logistics Lall & Co,09ISQWW8337Y8Z9,Uttar Pradesh,9,Kochi,yoshita40@example.org,28,62.92,79,High,True
+VND-056,Birla Corp Bassi & Co,07ZTLCQ8469B6Z1,Delhi,7,Kharagpur,lankadiya@example.com,160,69.16,45,High,True
+VND-057,Asian Paints Supply Sanghvi & Co,32NOUEC8629E4Z8,Kerala,32,Thanjavur,wdeep@example.org,336,76.8,32,Medium,True
+VND-058,Reliance Industries Kibe & Co,37XMHOB9929W5Z8,Andhra Pradesh,37,Bangalore,shanvidhi@example.org,442,69.96,38,High,True
+VND-059,Hero Motors Mitter & Co,19CJJHS0830V1Z8,West Bengal,19,Tadepalligudem,savantanjali@example.net,436,98.98,36,Low,True
+VND-060,ITC Trading Sampath & Co,20FEGTT6106B5Z8,Jharkhand,20,Ambarnath,karaoviya@example.com,27,83.68,74,Medium,True
+VND-061,Mahindra Logistics Savant & Co,32XIKFU8352F5Z8,Kerala,32,Machilipatnam,manipallavi@example.net,422,88.56,37,Medium,True
+VND-062,Marico Distribution Sandal & Co,29ZDZWS9983Z7Z1,Karnataka,29,Dehradun,jswaminathan@example.net,145,91.37,68,Low,True
+VND-063,Adani Logistics Sampath & Co,08PVYCG0859H2Z8,Rajasthan,8,Surendranagar Dudhrej,zbail@example.net,475,77.74,89,Medium,True
+VND-064,Infosys BPO Raj & Co,27DYHMC8146X9Z7,Maharashtra,27,Unnao,varghesejasmit@example.org,310,85.32,19,Medium,True
+VND-065,Hero Motors Sandal & Co,36QYHRF4239L9Z6,Telangana,36,North Dumdum,vedhika56@example.org,41,85.54,50,Medium,True
+VND-066,Infosys BPO Vasa & Co,21YVCFQ9039Z4Z2,Odisha,21,Darbhanga,qramakrishnan@example.net,434,67.4,70,High,True
+VND-067,Asian Paints Supply Puri & Co,19IDXAW1121V1Z3,West Bengal,19,Mathura,darpan26@example.com,17,82.87,45,Medium,True
+VND-068,Reliance Industries Sandhu & Co,20EBTNT4751Q4Z1,Jharkhand,20,Udupi,asane@example.org,382,82.97,84,Medium,True
+VND-069,Reliance Industries Srivastava & Co,03BMKRM9006C3Z5,Punjab,3,Nagaon,obassi@example.com,329,71.76,81,High,True
+VND-070,HUL Supply Chain Dewan & Co,23ZNLPC7867X4Z7,Madhya Pradesh,23,Arrah,bassiindira@example.com,241,87.77,29,Medium,True
+VND-071,Marico Distribution Randhawa & Co,36KSIIG9640C2Z7,Telangana,36,Rajahmundry,fkamdar@example.org,59,73.22,47,High,True
+VND-072,Dr Reddy Chemicals Toor & Co,09YORKW9490J5Z6,Uttar Pradesh,9,Pali,bachittarrao@example.org,63,81.7,73,Medium,True
+VND-073,Hero Motors Lala & Co,03FCVJT5889T9Z1,Punjab,3,Karaikudi,dhaliwalchatura@example.com,321,68.3,84,High,True
+VND-074,Adani Logistics Bhavsar & Co,21SIIAW5416A2Z9,Odisha,21,Tirupati,fsaran@example.org,120,61.13,48,High,True
+VND-075,HDFC Trade Ratta & Co,36JSUOC0166I8Z7,Telangana,36,Yamunanagar,rajagopalanay@example.net,258,77.69,77,Medium,True
+VND-076,Bajaj Industries Hayer & Co,37TCLHR4603T1Z1,Andhra Pradesh,37,Bihar Sharif,guneet19@example.net,114,76.15,38,Medium,True
+VND-077,Adani Logistics Sahni & Co,19HDMLD5256L2Z7,West Bengal,19,Aurangabad,darikalad@example.org,451,89.93,5,Medium,True
+VND-078,Mahindra Logistics Sathe & Co,36WOOSK1038T8Z6,Telangana,36,Chennai,chavvi83@example.org,55,60.73,55,High,True
+VND-079,Dr Reddy Chemicals Andra & Co,08KCWTF7065G6Z6,Rajasthan,8,Alappuzha,kabirgoyal@example.net,382,69.49,82,High,True
+VND-080,Wipro Enterprises Loyal & Co,09GEDTB9645S8Z6,Uttar Pradesh,9,Kollam,nagydaniel@example.org,452,69.21,80,High,True
+VND-081,Mahindra Logistics Bora & Co,29MQUPJ0403J2Z2,Karnataka,29,Bhagalpur,manbir89@example.org,324,65.89,76,High,True
+VND-082,Dr Reddy Chemicals Sodhi & Co,03OUXLV6341B8Z2,Punjab,3,Chinsurah,travel@example.com,425,74.99,43,High,True
+VND-083,HDFC Trade Master & Co,07BSZNP3937V1Z6,Delhi,7,Singrauli,okorpal@example.net,43,79.68,42,Medium,True
+VND-084,HUL Supply Chain Anand & Co,08HSRXW3513U7Z3,Rajasthan,8,North Dumdum,madhavibhasin@example.net,314,81.76,90,Medium,True
+VND-085,HUL Supply Chain Bhatt & Co,07QIDSY9906Q6Z1,Delhi,7,Nagercoil,anusha63@example.net,195,72.07,39,High,True
+VND-086,Godrej Distribution Walia & Co,10YMFDC8178Q1Z6,Bihar,10,Dhule,sameshmaharaj@example.com,458,97.1,79,Low,True
+VND-087,Wipro Enterprises Bains & Co,09EVUVE4462O5Z8,Uttar Pradesh,9,Phagwara,esanghvi@example.com,129,83.29,68,Medium,True
+VND-088,Hero Motors Parmar & Co,20XFROL7754F4Z3,Jharkhand,20,Pune,manan15@example.com,456,72.07,32,High,True
+VND-089,ITC Trading Bhagat & Co,06OCVWH7291N2Z4,Haryana,6,Silchar,nwali@example.net,428,85.01,57,Medium,True
+VND-090,Dabur India Srinivasan & Co,32BNGZJ0986Z3Z3,Kerala,32,Sagar,farhanbail@example.net,29,96.29,36,Low,True
+VND-091,Wipro Enterprises Rau & Co,24TMPXA2196N2Z5,Gujarat,24,Bhind,viswanathanfariq@example.com,131,87.15,38,Medium,True
+VND-092,Dabur India Pillay & Co,08QQBVM5657J7Z1,Rajasthan,8,Patiala,chandranyug@example.org,324,61.86,45,High,True
+VND-093,HDFC Trade Sampath & Co,20RCZBN5953P1Z7,Jharkhand,20,Danapur,sehgalgavin@example.org,201,82.26,32,Medium,True
+VND-094,Mahindra Logistics Mistry & Co,01ITQUT3058F8Z8,Jammu & Kashmir,1,Phusro,manitriya@example.org,333,73.93,23,High,True
+VND-095,Marico Distribution Dara & Co,09AFUXI3384B4Z5,Uttar Pradesh,9,Bardhaman,hiralgopal@example.com,192,62.46,6,High,True
+VND-096,ITC Trading Savant & Co,29LKLYI1637I2Z7,Karnataka,29,Sasaram,yashicadubey@example.net,50,70.66,55,High,True
+VND-097,Godrej Distribution Malhotra & Co,10CIHLS1447L7Z5,Bihar,10,Proddatur,dhriti91@example.org,337,81.27,7,Medium,True
+VND-098,HUL Supply Chain Borra & Co,07JURYD6700Y6Z6,Delhi,7,Durgapur,sbera@example.com,206,86.18,72,Medium,True
+VND-099,Marico Distribution Kala & Co,06YJTON3621X3Z8,Haryana,6,Danapur,neeldatta@example.com,275,83.6,49,Medium,True
+VND-100,Adani Logistics Vig & Co,23SFPSZ2101W8Z2,Madhya Pradesh,23,Gwalior,lnagy@example.net,424,64.59,87,High,True
+VND-101,Mahindra Logistics Sha & Co,29OHHES7132G3Z4,Karnataka,29,Siwan,osha38@example.net,414,86.05,63,Medium,True
+VND-102,Dr Reddy Chemicals Baral & Co,01JUOPC3975Y7Z2,Jammu & Kashmir,1,Hapur,nbhandari@example.org,74,74.07,40,High,True
+VND-103,Larsen & Toubro Tara & Co,07IWUQE9490D9Z3,Delhi,7,Davanagere,fbandi@example.com,165,77.55,21,Medium,True
+VND-104,Asian Paints Supply Mangat & Co,10IYXVG6513R2Z9,Bihar,10,Agartala,arjun99@example.com,338,72.58,21,High,True
+VND-105,Cipla Pharma Chaudry & Co,09SPVOV0065U4Z7,Uttar Pradesh,9,Bettiah,mahika41@example.org,326,66.68,81,High,True
+VND-106,Sun Pharma Kota & Co,01HYMUR2004P8Z4,Jammu & Kashmir,1,Giridih,cgade@example.com,184,79.42,77,Medium,True
+VND-107,Godrej Distribution Seth & Co,09TWZDJ5342H3Z2,Uttar Pradesh,9,Munger,unnatisawhney@example.org,35,72.19,37,High,True
+VND-108,Dabur India Bahl & Co,33GWEIP3745P5Z8,Tamil Nadu,33,Kishanganj,geetika12@example.org,21,93.7,11,Low,True
+VND-109,Asian Paints Supply Guha & Co,33FJBMW6458N3Z5,Tamil Nadu,33,Gangtok,akshaybandi@example.com,382,79.71,46,Medium,True
+VND-110,HUL Supply Chain Kashyap & Co,33BOJHK4586T2Z3,Tamil Nadu,33,Thrissur,ojas02@example.com,59,74.27,50,High,True
+VND-111,Godrej Distribution Nazareth & Co,32OJDPK0078Q8Z3,Kerala,32,Alappuzha,snehasaha@example.net,320,91.0,65,Low,True
+VND-112,Cipla Pharma Iyer & Co,09IKQVP5545P1Z6,Uttar Pradesh,9,Rajkot,ishaansekhon@example.net,179,72.79,86,High,True
+VND-113,Dr Reddy Chemicals Rana & Co,08HXWQP2695H1Z8,Rajasthan,8,Vijayawada,datearjun@example.net,97,98.22,67,Low,True
+VND-114,Asian Paints Supply Krishnan & Co,33AYCAI1647P1Z3,Tamil Nadu,33,Rampur,indrajittank@example.net,275,65.76,26,High,True
+VND-115,Hero Motors Goyal & Co,23NIEXI3776W5Z8,Madhya Pradesh,23,Ballia,nimratmannan@example.net,108,72.68,31,High,True
+VND-116,Asian Paints Supply Dey & Co,21YZUSR4459X5Z5,Odisha,21,Kirari Suleman Nagar,advika68@example.com,72,81.77,73,Medium,True
+VND-117,HUL Supply Chain Dada & Co,23VYUHH7342P4Z4,Madhya Pradesh,23,Kishanganj,comarbhavani@example.org,433,74.81,68,High,True
+VND-118,Adani Logistics Bahl & Co,21DQPGR5604W8Z2,Odisha,21,Jaunpur,vrishtibahl@example.org,358,96.39,17,Low,True
+VND-119,HDFC Trade Sathe & Co,01KYWMF9369C4Z9,Jammu & Kashmir,1,Dewas,kshankar@example.org,388,97.62,4,Low,True
+VND-120,HDFC Trade Madan & Co,10YAVUE7820J2Z6,Bihar,10,Jorhat,irabala@example.org,155,76.3,58,Medium,True
+VND-121,Wipro Enterprises Mukhopadhyay & Co,23WMFCE4217Z5Z4,Madhya Pradesh,23,Hyderabad,ngokhale@example.com,99,80.45,78,Medium,True
+VND-122,Larsen & Toubro Chakraborty & Co,33IKCZM9034I6Z5,Tamil Nadu,33,Faridabad,janigayathri@example.com,308,92.25,73,Low,True
+VND-123,ITC Trading Sani & Co,01SBDHK5873D5Z6,Jammu & Kashmir,1,Rajahmundry,behlaarav@example.com,324,70.2,28,High,True
+VND-124,Hero Motors Keer & Co,20DTPKO4562H2Z9,Jharkhand,20,Malda,maanas01@example.net,238,97.34,67,Low,True
+VND-125,Dr Reddy Chemicals Kota & Co,32CVXFN1846W8Z2,Kerala,32,Siliguri,kashvikakar@example.com,470,63.05,65,High,True
+VND-126,Marico Distribution Mittal & Co,37DKOOR3020G2Z1,Andhra Pradesh,37,Morena,fbassi@example.com,226,91.54,44,Low,True
+VND-127,Tata Steel Rana & Co,07YBYAK7796N6Z7,Delhi,7,Akola,dhillonkala@example.org,239,81.11,48,Medium,True
+VND-128,Sun Pharma Doshi & Co,33DWDZK1987J8Z9,Tamil Nadu,33,Adoni,ldutt@example.com,227,63.13,68,High,True
+VND-129,Asian Paints Supply Mittal & Co,33LEEWT0669A4Z4,Tamil Nadu,33,Bhilwara,bhatjyoti@example.com,44,92.11,12,Low,True
+VND-130,Tata Steel Narayanan & Co,06GBLOT7192X6Z6,Haryana,6,Thiruvananthapuram,patlarohan@example.org,131,77.41,38,Medium,True
+VND-131,Larsen & Toubro Mistry & Co,09FHBYW9644L7Z9,Uttar Pradesh,9,Ramgarh,indrajit33@example.com,173,98.44,89,Low,True
+VND-132,Birla Corp Trivedi & Co,36JTMWH7895N9Z9,Telangana,36,Vijayanagaram,siddharthkrishnan@example.org,78,75.92,49,Medium,True
+VND-133,Godrej Distribution Rajan & Co,20QXWCS1266C4Z9,Jharkhand,20,Gangtok,waidaseshadri@example.org,121,69.94,61,High,True
+VND-134,Godrej Distribution Sachdev & Co,19HXFET7796W4Z7,West Bengal,19,Lucknow,ysabharwal@example.org,478,93.91,30,Low,True
+VND-135,Birla Corp Master & Co,23JNJGN4094K4Z6,Madhya Pradesh,23,Bhalswa Jahangir Pur,daminianne@example.net,170,72.54,52,High,True
+VND-136,Asian Paints Supply Mitter & Co,06TAOPS2125H8Z9,Haryana,6,Rohtak,gaurikanadkarni@example.com,345,81.94,87,Medium,True
+VND-137,Hero Motors Shankar & Co,29ZQMEU1749R1Z9,Karnataka,29,Barasat,surudant@example.com,27,70.04,9,High,True
+VND-138,Dabur India Gill & Co,06DQBDF4069P8Z1,Haryana,6,Kamarhati,devansh95@example.org,13,89.81,68,Medium,True
+VND-139,Reliance Industries Reddy & Co,23NHZAV6891D9Z3,Madhya Pradesh,23,Vijayanagaram,randhawafrederick@example.net,133,76.04,24,Medium,True
+VND-140,ITC Trading Suresh & Co,03GKJKO9268U1Z2,Punjab,3,Katihar,oommenalka@example.org,217,69.84,48,High,True
+VND-141,Tata Steel Dubey & Co,33QSCVQ3998B4Z4,Tamil Nadu,33,Tiruchirappalli,rachita05@example.net,471,81.56,88,Medium,True
+VND-142,Mahindra Logistics Kumar & Co,24RHORE8021W7Z2,Gujarat,24,Durgapur,anamika86@example.com,163,70.57,20,High,True
+VND-143,HUL Supply Chain Badami & Co,20ROJTU6073D7Z4,Jharkhand,20,Bokaro,vanyamukherjee@example.com,439,82.1,9,Medium,True
+VND-144,Cipla Pharma Dass & Co,29YKUAH9439N3Z7,Karnataka,29,Buxar,zkulkarni@example.com,53,83.6,79,Medium,True
+VND-145,Mahindra Logistics Dutta & Co,27CESQT3103L5Z2,Maharashtra,27,Buxar,balasubramanianmeghana@example.net,77,91.12,11,Low,True
+VND-146,Sun Pharma Kamdar & Co,10OKAJC5332M2Z9,Bihar,10,Kurnool,vdoshi@example.com,473,76.81,31,Medium,True
+VND-147,HUL Supply Chain Jhaveri & Co,03EGGDE2273H8Z4,Punjab,3,Kolkata,neelima84@example.org,244,66.61,13,High,True
+VND-148,HUL Supply Chain Sodhi & Co,09IQUII8891K4Z8,Uttar Pradesh,9,Shivpuri,rkala@example.org,170,71.88,22,High,True
+VND-149,Birla Corp Bobal & Co,33TQZUI2739G9Z3,Tamil Nadu,33,Bangalore,kuruvillabhavini@example.com,359,97.78,70,Low,True
+VND-150,Marico Distribution Lala & Co,01YFUVB8761J4Z5,Jammu & Kashmir,1,Serampore,ykari@example.org,347,97.17,19,Low,True
+VND-151,Mahindra Logistics Kota & Co,36LPPNY8409W9Z2,Telangana,36,Alwar,kiaan36@example.com,65,90.77,31,Low,True
+VND-152,Cipla Pharma Ravi & Co,32BZRKT9402Q9Z9,Kerala,32,Bettiah,ikshitayogi@example.net,307,66.49,88,High,True
+VND-153,HUL Supply Chain Borra & Co,20MRRDZ4290X3Z6,Jharkhand,20,Begusarai,bhanumati44@example.org,169,77.39,43,Medium,True
+VND-154,Larsen & Toubro Bains & Co,37MMLSI3818U2Z3,Andhra Pradesh,37,Kumbakonam,vdeol@example.net,486,90.59,31,Low,True
+VND-155,HDFC Trade Lata & Co,03ILMUQ1637G8Z7,Punjab,3,Gopalpur,suraishita@example.org,209,66.8,0,High,True
+VND-156,Mahindra Logistics Chacko & Co,19PUNJF1649K7Z7,West Bengal,19,Vijayanagaram,comarurvashi@example.com,310,68.03,14,High,True
+VND-157,Marico Distribution Mohanty & Co,32QVSHP0113F6Z3,Kerala,32,Jamalpur,fdutta@example.com,271,73.73,49,High,True
+VND-158,Dr Reddy Chemicals Natt & Co,36JEQSQ9541K8Z1,Telangana,36,Farrukhabad,vbhavsar@example.org,453,83.26,45,Medium,True
+VND-159,Bajaj Industries Kala & Co,01VZNMR4840A4Z5,Jammu & Kashmir,1,Tiruchirappalli,raoekiya@example.com,26,78.9,35,Medium,True
+VND-160,HDFC Trade Nagar & Co,20UOUMN5259R1Z8,Jharkhand,20,Bhagalpur,janakikadakia@example.net,289,80.97,27,Medium,True
+VND-161,Asian Paints Supply Comar & Co,36HZLJV4972Z6Z7,Telangana,36,Bhatpara,meghana24@example.com,94,63.99,78,High,True
+VND-162,Bajaj Industries Raman & Co,09UONPE9259Q2Z3,Uttar Pradesh,9,Amaravati,danielaggarwal@example.org,394,90.61,52,Low,True
+VND-163,Wipro Enterprises Gole & Co,06SDDIG8316U7Z7,Haryana,6,Ahmedabad,gaurangi33@example.com,241,98.71,9,Low,True
+VND-164,Adani Logistics Konda & Co,07SWLMP8809U6Z2,Delhi,7,Guna,nitara76@example.net,417,75.71,68,Medium,True
+VND-165,Dabur India Batta & Co,33VMIHO1878Y1Z1,Tamil Nadu,33,Tumkur,rohansachdeva@example.org,60,68.5,80,High,True
+VND-166,HDFC Trade Bakshi & Co,37LAYFR1619I2Z6,Andhra Pradesh,37,Bilaspur,dubeysamuel@example.org,138,60.63,10,High,True
+VND-167,HDFC Trade Handa & Co,32BQSTL0020S4Z9,Kerala,32,Nandyal,tgill@example.com,358,85.92,56,Medium,True
+VND-168,Godrej Distribution Nagi & Co,01VZKDB3713J3Z7,Jammu & Kashmir,1,Ranchi,etamunshi@example.net,406,60.31,17,High,True
+VND-169,Dr Reddy Chemicals Brahmbhatt & Co,09AQLSQ1468C2Z3,Uttar Pradesh,9,Loni,geetikapuri@example.com,395,62.67,15,High,True
+VND-170,Dabur India Dass & Co,33IDHCO6676V5Z4,Tamil Nadu,33,Aurangabad,ishanvichaudhari@example.com,275,73.71,77,High,True
+VND-171,HUL Supply Chain Sampath & Co,03HBXYM1455A6Z6,Punjab,3,Tadipatri,gardejonathan@example.net,77,67.36,49,High,True
+VND-172,HDFC Trade Krishna & Co,36TYUAB2007Q5Z9,Telangana,36,Purnia,pbiswas@example.com,402,74.25,53,High,True
+VND-173,Mahindra Logistics Raval & Co,36QNDCC9913S2Z5,Telangana,36,Davanagere,nidra23@example.com,367,87.37,55,Medium,True
+VND-174,Mahindra Logistics Amble & Co,20YDPBR6101A3Z8,Jharkhand,20,Danapur,eaggarwal@example.com,497,62.26,44,High,True
+VND-175,Adani Logistics Balakrishnan & Co,03EDUGX7082C5Z2,Punjab,3,Mirzapur,prasadbachittar@example.org,264,80.17,58,Medium,True
+VND-176,Hero Motors Choudhury & Co,03WEEUX6170A4Z1,Punjab,3,Satara,nathbakhshi@example.org,251,74.04,46,High,True
+VND-177,HDFC Trade Bhattacharyya & Co,33YWOXT4347I2Z6,Tamil Nadu,33,Bellary,iparikh@example.com,71,95.89,64,Low,True
+VND-178,Larsen & Toubro Oommen & Co,06ZYBMH8350G5Z5,Haryana,6,Latur,malhotranirja@example.net,388,66.99,79,High,True
+VND-179,Dr Reddy Chemicals Baria & Co,20ZZUTO7190R6Z1,Jharkhand,20,Indore,logantata@example.com,496,78.09,42,Medium,True
+VND-180,HUL Supply Chain Kulkarni & Co,01WSCNG4097C1Z4,Jammu & Kashmir,1,Jalandhar,sram@example.org,469,89.6,66,Medium,True
+VND-181,ITC Trading Menon & Co,36LTPNQ3506E4Z5,Telangana,36,Parbhani,ramyashvi@example.org,143,87.33,40,Medium,True
+VND-182,Godrej Distribution Prashad & Co,33IHBFU5114N2Z9,Tamil Nadu,33,Agra,nandinichaudry@example.com,193,87.33,26,Medium,True
+VND-183,Adani Logistics Parekh & Co,37WCUHS6281W4Z6,Andhra Pradesh,37,Shimla,oliver50@example.com,212,72.02,65,High,True
+VND-184,Adani Logistics Mutti & Co,06VEYWO5017D1Z1,Haryana,6,Satna,robert55@example.net,435,86.41,28,Medium,True
+VND-185,HUL Supply Chain Rai & Co,09JQQPG8009O3Z2,Uttar Pradesh,9,Tinsukia,anirudh58@example.net,473,67.73,42,High,True
+VND-186,Marico Distribution Lalla & Co,08BYLSM3439I5Z8,Rajasthan,8,Satna,ssrinivas@example.com,462,61.67,19,High,True
+VND-187,Cipla Pharma Sengupta & Co,06GHKOB2118Q4Z9,Haryana,6,Ichalkaranji,abhimanyupuri@example.com,416,83.95,2,Medium,True
+VND-188,ITC Trading Srinivas & Co,33MUIOI2050Z5Z1,Tamil Nadu,33,Haridwar,vasudhasubramanian@example.net,424,90.49,60,Low,True
+VND-189,Dr Reddy Chemicals Chokshi & Co,03ZZCRG8909H7Z6,Punjab,3,Machilipatnam,bhavika28@example.org,488,73.94,22,High,True
+VND-190,Godrej Distribution Pandit & Co,10USXAS9551Z8Z9,Bihar,10,Gwalior,vamakshidewan@example.net,168,69.23,22,High,True
+VND-191,Tata Steel Walla & Co,24GFNAX2179K1Z1,Gujarat,24,Tezpur,xnarain@example.org,85,61.48,75,High,True
+VND-192,Larsen & Toubro Nagy & Co,09WYJYK1311N8Z6,Uttar Pradesh,9,Bhalswa Jahangir Pur,ektamore@example.com,99,90.2,90,Low,True
+VND-193,Cipla Pharma Oak & Co,23UFPEH6179S7Z1,Madhya Pradesh,23,Jamalpur,kalaucchal@example.net,103,87.05,77,Medium,True
+VND-194,Cipla Pharma Kar & Co,29FOYDT2918C6Z8,Karnataka,29,Bhimavaram,fsandal@example.org,15,95.92,33,Low,True
+VND-195,Mahindra Logistics Hans & Co,19JUSBL4148L9Z7,West Bengal,19,Madhyamgram,nihal91@example.org,61,69.73,61,High,True
+VND-196,Mahindra Logistics Ben & Co,20UAAGC3810C6Z8,Jharkhand,20,Panvel,sachi68@example.com,370,66.34,3,High,True
+VND-197,HDFC Trade Bath & Co,36PLBIZ4595V5Z5,Telangana,36,Bijapur,kalemohammed@example.org,131,96.76,12,Low,True
+VND-198,Sun Pharma Srinivasan & Co,06VDJLH6610F5Z2,Haryana,6,Ranchi,jeremiahlanka@example.org,252,75.32,14,Medium,True
+VND-199,Hero Motors Brahmbhatt & Co,27MRCOE8342O5Z4,Maharashtra,27,Ambarnath,nkapur@example.com,438,90.61,34,Low,True
+VND-200,Infosys BPO Mani & Co,06CIOZP5884R8Z4,Haryana,6,Gulbarga,lankagaurav@example.com,253,65.89,38,High,True
+VND-201,Tata Steel Bal & Co,07NXURQ1719G4Z3,Delhi,7,Mathura,muniucchal@example.org,31,75.4,54,Medium,True
+VND-202,Dabur India Thaman & Co,07FVDPI7805R6Z5,Delhi,7,Nangloi Jat,ishaanmerchant@example.com,276,98.54,58,Low,True
+VND-203,Cipla Pharma Agrawal & Co,01PUCDO5911Y2Z5,Jammu & Kashmir,1,Siwan,xsaini@example.net,454,90.68,68,Low,True
+VND-204,Adani Logistics Chowdhury & Co,32JMPAH1660K4Z1,Kerala,32,Rohtak,frado58@example.net,391,94.24,60,Low,True
+VND-205,Reliance Industries Kumer & Co,21IUIVW6923X8Z6,Odisha,21,Ulhasnagar,tgara@example.net,147,94.98,53,Low,True
+VND-206,Bajaj Industries Soman & Co,07XKMNJ0707M3Z9,Delhi,7,Imphal,calebgoswami@example.net,460,67.33,72,High,True
+VND-207,Bajaj Industries Ray & Co,01VGLXS2856D1Z4,Jammu & Kashmir,1,Silchar,lalfrederick@example.org,200,66.78,62,High,True
+VND-208,Hero Motors Iyer & Co,37PJEXT6231S4Z4,Andhra Pradesh,37,Bhilai,qarin13@example.com,341,66.93,28,High,True
+VND-209,Dabur India Konda & Co,19NWZRM1182T5Z5,West Bengal,19,Bijapur,khalsaharshil@example.org,226,70.49,48,High,True
+VND-210,Bajaj Industries Dhaliwal & Co,32MRVKC5683U5Z5,Kerala,32,Farrukhabad,dewandalbir@example.com,360,77.9,13,Medium,True
+VND-211,Adani Logistics Prabhu & Co,24QWGSX2178Z7Z6,Gujarat,24,Delhi,ydevi@example.org,358,62.49,17,High,True
+VND-212,Birla Corp Sem & Co,01GKKAS5172R8Z6,Jammu & Kashmir,1,Dhule,indira78@example.org,269,85.56,38,Medium,True
+VND-213,Sun Pharma Banik & Co,10ECDGV7163C4Z6,Bihar,10,Mumbai,jagdishmohan@example.com,124,92.78,39,Low,True
+VND-214,Godrej Distribution Sule & Co,36JPMDB6564G9Z2,Telangana,36,Maheshtala,ekta39@example.com,454,90.74,87,Low,True
+VND-215,Dabur India Chawla & Co,33BWDFK5943W3Z2,Tamil Nadu,33,Guntur,vanyadeshmukh@example.net,259,80.66,42,Medium,True
+VND-216,Tata Steel Sinha & Co,10AHTET4706U7Z7,Bihar,10,Gorakhpur,nidhi31@example.com,229,72.22,61,High,True
+VND-217,Sun Pharma Loke & Co,33FJAIV1662W6Z5,Tamil Nadu,33,Ongole,tripathiekbal@example.net,76,60.18,13,High,True
+VND-218,Birla Corp Sarin & Co,33EVHHS5389K8Z6,Tamil Nadu,33,Bhubaneswar,veerdasgupta@example.org,394,79.63,24,Medium,True
+VND-219,HUL Supply Chain Kade & Co,10AFZFA5177M5Z9,Bihar,10,Ramgarh,clanka@example.org,329,96.98,6,Low,True
+VND-220,Reliance Industries Shenoy & Co,06BDLDG7260N2Z9,Haryana,6,Nagpur,sarthak62@example.org,148,85.82,79,Medium,True
+VND-221,Infosys BPO Sangha & Co,09NQHUM6789L7Z5,Uttar Pradesh,9,Tirupati,rpal@example.com,92,76.33,5,Medium,True
+VND-222,Bajaj Industries Chana & Co,23RMGAC1549Y9Z2,Madhya Pradesh,23,Hospet,rdalal@example.org,380,79.36,12,Medium,True
+VND-223,Marico Distribution Hayer & Co,21ZHMCE0283X2Z2,Odisha,21,Anantapuram,bsastry@example.com,445,85.13,5,Medium,True
+VND-224,HDFC Trade Prabhakar & Co,01IXYGT3314O5Z7,Jammu & Kashmir,1,Pondicherry,znadig@example.net,363,93.23,61,Low,True
+VND-225,HDFC Trade Balakrishnan & Co,36CSBYE4586F7Z6,Telangana,36,Tadepalligudem,saneatharv@example.org,323,85.31,3,Medium,True
+VND-226,Hero Motors Sur & Co,09CKBGI7675S4Z6,Uttar Pradesh,9,Solapur,amol29@example.com,275,78.84,66,Medium,True
+VND-227,Asian Paints Supply Dara & Co,08MRQDV8609Q8Z8,Rajasthan,8,Haridwar,vchoudhury@example.net,455,76.88,21,Medium,True
+VND-228,Godrej Distribution Natarajan & Co,07GZBFQ4248O2Z8,Delhi,7,New Delhi,balgeetika@example.net,238,89.31,40,Medium,True
+VND-229,Reliance Industries Loke & Co,08CKOAC6635G8Z6,Rajasthan,8,Chandigarh,pallavivohra@example.net,196,98.25,6,Low,True
+VND-230,Godrej Distribution Bhattacharyya & Co,20OQMRS1723U5Z9,Jharkhand,20,Gangtok,elata@example.org,277,92.93,47,Low,True
+VND-231,HDFC Trade Naidu & Co,08MVTKG1182Z4Z6,Rajasthan,8,Agartala,warinder87@example.com,65,61.79,53,High,True
+VND-232,Dr Reddy Chemicals Ray & Co,06DXLPN9075N8Z9,Haryana,6,Silchar,umang41@example.com,409,96.14,22,Low,True
+VND-233,Wipro Enterprises Kaur & Co,10CRPIW4662M6Z5,Bihar,10,Mehsana,daslibni@example.net,241,88.49,17,Medium,True
+VND-234,Larsen & Toubro Peri & Co,09HSWSY6262L3Z3,Uttar Pradesh,9,Kolkata,gadekai@example.net,267,76.1,69,Medium,True
+VND-235,ITC Trading Kurian & Co,29OPYSR8584A9Z2,Karnataka,29,Bhagalpur,sahotasanaya@example.net,22,87.7,48,Medium,True
+VND-236,Tata Steel Sahni & Co,09FTEHG8627B6Z8,Uttar Pradesh,9,Munger,ybava@example.org,62,62.07,78,High,True
+VND-237,Sun Pharma Madan & Co,23KNUSS0347V6Z9,Madhya Pradesh,23,Burhanpur,rushilbalasubramanian@example.net,37,93.73,1,Low,True
+VND-238,Marico Distribution Suresh & Co,21VXSQT5679J8Z3,Odisha,21,Siliguri,iryabajaj@example.org,359,67.92,9,High,True
+VND-239,Larsen & Toubro Kapadia & Co,10DBHGE8049B3Z6,Bihar,10,Katihar,pranav16@example.com,315,97.54,6,Low,True
+VND-240,Dr Reddy Chemicals Chokshi & Co,27OBSNY5715M2Z6,Maharashtra,27,Bidhannagar,charan65@example.net,123,79.13,27,Medium,True
+VND-241,Birla Corp Balasubramanian & Co,29FTNZV9064U4Z1,Karnataka,29,Mumbai,wazir14@example.net,359,72.91,41,High,True
+VND-242,Infosys BPO Sathe & Co,33KOHXV3840U4Z6,Tamil Nadu,33,Gangtok,rajagopalanneelima@example.org,273,95.72,10,Low,True
+VND-243,Sun Pharma Iyer & Co,08NQFQF6828X7Z2,Rajasthan,8,Bongaigaon,isaacacharya@example.org,392,66.53,87,High,True
+VND-244,Godrej Distribution Sarna & Co,09ABEGB8944M7Z6,Uttar Pradesh,9,Bihar Sharif,falanpuri@example.com,18,60.93,49,High,True
+VND-245,Cipla Pharma Panchal & Co,08BTBWJ5266J8Z7,Rajasthan,8,Aligarh,ridhihora@example.net,212,80.86,84,Medium,True
+VND-246,Sun Pharma Mangat & Co,01FTUWH6289X6Z1,Jammu & Kashmir,1,Kochi,capte@example.net,293,78.49,71,Medium,True
+VND-247,Reliance Industries Sarkar & Co,09OKOCF7729Q3Z3,Uttar Pradesh,9,Karimnagar,waliranbir@example.com,104,64.81,28,High,True
+VND-248,HDFC Trade Doshi & Co,21ROBTZ5606I2Z4,Odisha,21,Panvel,tanveerbhandari@example.net,381,67.58,74,High,True
+VND-249,ITC Trading Narasimhan & Co,24DRCQX3463S3Z6,Gujarat,24,Aligarh,tpingle@example.org,423,97.11,40,Low,True
+VND-250,Godrej Distribution Sangha & Co,36GFTLV1784L5Z8,Telangana,36,Latur,sachdevaraksha@example.net,292,66.58,13,High,True
+VND-251,Mahindra Logistics Choudhury & Co,10VWDOG8000Q1Z7,Bihar,10,Suryapet,chandran94@example.org,403,85.18,75,Medium,True
+VND-252,Sun Pharma Bhattacharyya & Co,19GXORD3858E8Z9,West Bengal,19,Barasat,grege@example.org,271,95.35,11,Low,True
+VND-253,Reliance Industries Saini & Co,33RWUPE5419V3Z8,Tamil Nadu,33,Tiruvottiyur,isaiah64@example.com,490,74.19,45,High,True
+VND-254,Hero Motors Kale & Co,06GGGRN7398B6Z2,Haryana,6,Naihati,azadreddy@example.org,370,68.53,66,High,True
+VND-255,Adani Logistics Wali & Co,21POJJP8029H9Z7,Odisha,21,Vijayawada,vermavihaan@example.com,190,92.56,44,Low,True
+VND-256,Cipla Pharma Gokhale & Co,24AWLFN2116D4Z7,Gujarat,24,Akola,nihal93@example.net,425,90.91,42,Low,True
+VND-257,Hero Motors Chanda & Co,08MPQKG1515S3Z1,Rajasthan,8,Pimpri-Chinchwad,theodorechadha@example.org,95,78.78,33,Medium,True
+VND-258,HUL Supply Chain Banik & Co,10POASR2049P3Z4,Bihar,10,Mathura,ronith19@example.org,435,80.15,52,Medium,True
+VND-259,HDFC Trade Srivastava & Co,09QNERX5031A4Z9,Uttar Pradesh,9,Tiruppur,gaurikagoyal@example.net,450,90.99,64,Low,True
+VND-260,Cipla Pharma Pillay & Co,36CMPBU5141T9Z1,Telangana,36,Sultan Pur Majra,hpanchal@example.com,469,92.23,86,Low,True
+VND-261,ITC Trading Wable & Co,36WSLYM7389W2Z7,Telangana,36,Gangtok,mvora@example.com,78,80.36,32,Medium,True
+VND-262,Mahindra Logistics Konda & Co,24HWKES7510U4Z6,Gujarat,24,Shimoga,korpalgagan@example.net,219,89.87,46,Medium,True
+VND-263,Dr Reddy Chemicals Mody & Co,08GWLJH6747P3Z6,Rajasthan,8,Nizamabad,mandzilmil@example.org,296,66.04,71,High,True
+VND-264,Birla Corp Ravi & Co,24PUKDW1279D4Z9,Gujarat,24,Jaunpur,nairgunbir@example.net,215,69.9,43,High,True
+VND-265,Tata Steel Toor & Co,23EZACD9402C1Z7,Madhya Pradesh,23,Kulti,natarajanhamsini@example.net,486,83.95,51,Medium,True
+VND-266,Cipla Pharma Chad & Co,03BUEMA8951Z9Z9,Punjab,3,Noida,fchaudhry@example.org,367,71.17,29,High,True
+VND-267,ITC Trading Muni & Co,10GAEZU3355X2Z2,Bihar,10,Sagar,muttivamakshi@example.com,291,86.29,36,Medium,True
+VND-268,ITC Trading Majumdar & Co,23JVFZL4015R2Z9,Madhya Pradesh,23,Bahraich,kwarrior@example.net,160,95.69,43,Low,True
+VND-269,Adani Logistics Dixit & Co,08WVOSZ5779O8Z1,Rajasthan,8,Panipat,zkohli@example.com,256,91.31,14,Low,True
+VND-270,Asian Paints Supply Tara & Co,21RFIYN0820V6Z2,Odisha,21,Thane,samaksh70@example.com,293,62.63,22,High,True
+VND-271,Bajaj Industries Jhaveri & Co,24XGYRX4178G4Z4,Gujarat,24,Hapur,udeep@example.com,437,72.24,31,High,True
+VND-272,Infosys BPO Chanda & Co,32DCYMA8983K8Z5,Kerala,32,Parbhani,vvig@example.org,261,66.08,23,High,True
+VND-273,Asian Paints Supply Narang & Co,03TDNLY0387O2Z9,Punjab,3,Raebareli,fnigam@example.com,245,70.93,40,High,True
+VND-274,Bajaj Industries Bhakta & Co,01JCJWE2293F8Z7,Jammu & Kashmir,1,Bhilai,pallavi31@example.org,117,60.46,53,High,True
+VND-275,HUL Supply Chain Mander & Co,32HEDOF0224M4Z3,Kerala,32,Thanjavur,bhavsarchandresh@example.net,419,74.24,19,High,True
+VND-276,HDFC Trade Karnik & Co,24KDXQN3428B7Z2,Gujarat,24,Rampur,kotharidiya@example.com,363,91.42,20,Low,True
+VND-277,Adani Logistics Puri & Co,06MQLIJ5920D6Z4,Haryana,6,Phusro,harinidas@example.org,305,68.4,73,High,True
+VND-278,Birla Corp Sami & Co,23JRMTX3261F6Z7,Madhya Pradesh,23,Dibrugarh,liam27@example.com,333,66.81,78,High,True
+VND-279,Mahindra Logistics Chakraborty & Co,33CIIQS6387L9Z8,Tamil Nadu,33,Mahbubnagar,urmi30@example.net,221,93.11,21,Low,True
+VND-280,Wipro Enterprises Trivedi & Co,10SRYSC1108R1Z1,Bihar,10,Tadepalligudem,okhosla@example.net,404,93.31,50,Low,True
+VND-281,Mahindra Logistics Mani & Co,03CQCYK2741Q3Z1,Punjab,3,Thane,suriisha@example.net,27,89.83,84,Medium,True
+VND-282,Godrej Distribution Mand & Co,32WMWYO1955O7Z9,Kerala,32,Kavali,ladadvik@example.net,337,93.55,81,Low,True
+VND-283,ITC Trading Varma & Co,23MFCIK1057E6Z5,Madhya Pradesh,23,Bilaspur,ratwal@example.net,250,72.08,68,High,True
+VND-284,Hero Motors Lata & Co,01YMALH2034R7Z7,Jammu & Kashmir,1,Tadepalligudem,indali71@example.org,137,86.82,20,Medium,True
+VND-285,Asian Paints Supply Khanna & Co,33GKGTX8627Z5Z7,Tamil Nadu,33,Coimbatore,qmerchant@example.org,106,92.31,8,Low,True
+VND-286,Infosys BPO Prasad & Co,10QQHQE0051D5Z5,Bihar,10,Ichalkaranji,jdave@example.com,74,65.33,56,High,True
+VND-287,Wipro Enterprises Karpe & Co,01AFKUM3600Y3Z1,Jammu & Kashmir,1,Bhilwara,yamini99@example.org,146,69.08,50,High,True
+VND-288,HDFC Trade Natarajan & Co,07EVVVD7274X1Z4,Delhi,7,Tenali,rachitaiyer@example.com,245,81.18,12,Medium,True
+VND-289,Bajaj Industries Joshi & Co,03MRIIQ0952U5Z4,Punjab,3,Siliguri,indali68@example.net,194,85.97,6,Medium,True
+VND-290,Asian Paints Supply Baral & Co,19QIEHD7007P3Z6,West Bengal,19,Ozhukarai,balendraarya@example.org,404,97.96,11,Low,True
+VND-291,Mahindra Logistics Thaker & Co,20RIZTB3151P4Z6,Jharkhand,20,Mau,ukhare@example.net,295,66.15,82,High,True
+VND-292,Marico Distribution Bhandari & Co,32TAJSG0755P4Z3,Kerala,32,Tadipatri,vedhika34@example.org,288,91.42,44,Low,True
+VND-293,Adani Logistics Guha & Co,29WPWEN4854Y9Z7,Karnataka,29,Vijayanagaram,suraurvashi@example.com,385,88.56,23,Medium,True
+VND-294,ITC Trading Sekhon & Co,01UGSRO3545T5Z6,Jammu & Kashmir,1,New Delhi,chaitanyapalla@example.com,219,84.17,82,Medium,True
+VND-295,Larsen & Toubro Ramachandran & Co,29RBYEA1106M8Z9,Karnataka,29,Satara,dpadmanabhan@example.net,329,64.31,89,High,True
+VND-296,Asian Paints Supply Vasa & Co,21PBYFM8080R7Z6,Odisha,21,Mumbai,isaacacharya@example.org,416,61.91,90,High,True
+VND-297,Adani Logistics Chandran & Co,06NTVCF5123G9Z4,Haryana,6,Bareilly,elata@example.org,301,92.12,80,Low,True
+VND-298,Sun Pharma Radhakrishnan & Co,10KCQJL6811M9Z6,Bihar,10,Thoothukudi,hemangbalakrishnan@example.com,346,81.78,20,Medium,True
+VND-299,Marico Distribution Bal & Co,23YXOZV4683H9Z4,Madhya Pradesh,23,Pimpri-Chinchwad,naksh39@example.net,202,98.94,70,Low,True
+VND-300,Marico Distribution Varma & Co,21LKSZP5933H4Z6,Odisha,21,Thrissur,lsekhon@example.net,21,74.04,88,High,True
+VND-301,Larsen & Toubro Bawa & Co,21OYEAJ1352Z5Z2,Odisha,21,Ratlam,yahvi14@example.org,302,95.85,51,Low,True
+VND-302,Godrej Distribution Dave & Co,19UEVRO9537S7Z2,West Bengal,19,Pali,lratta@example.com,409,88.64,7,Medium,True
+VND-303,Dabur India Bose & Co,29KWWFQ6073J9Z1,Karnataka,29,Machilipatnam,pauladli@example.com,173,73.57,69,High,True
+VND-304,Asian Paints Supply Vora & Co,09DRZZT5047E3Z6,Uttar Pradesh,9,Solapur,calebbobal@example.net,52,72.75,60,High,True
+VND-305,Adani Logistics Puri & Co,06CNUDD5461T9Z4,Haryana,6,Dhanbad,upkaar05@example.com,134,81.38,9,Medium,True
+VND-306,Godrej Distribution Lata & Co,21ROCKJ1367F6Z8,Odisha,21,Ujjain,ekbalpanchal@example.com,329,90.29,18,Low,True
+VND-307,Asian Paints Supply Dhar & Co,37FJTWC0998J1Z6,Andhra Pradesh,37,Davanagere,ksidhu@example.com,365,61.75,14,High,True
+VND-308,Reliance Industries Dugal & Co,27ITFOT5696V1Z7,Maharashtra,27,Patna,tbanik@example.net,308,77.55,84,Medium,True
+VND-309,HDFC Trade Batra & Co,03BFSHM9066V6Z2,Punjab,3,Visakhapatnam,kaipanchal@example.com,19,61.7,37,High,True
+VND-310,HUL Supply Chain More & Co,33NSXMP0195W1Z1,Tamil Nadu,33,Gopalpur,halderranveer@example.net,136,69.02,67,High,True
+VND-311,HUL Supply Chain Sunder & Co,27TARJH9920I7Z1,Maharashtra,27,Narasaraopet,ranveerseshadri@example.com,493,73.01,71,High,True
+VND-312,Godrej Distribution Kurian & Co,21XRCJY6622E7Z5,Odisha,21,Bhavnagar,sudiksha80@example.net,475,68.8,77,High,True
+VND-313,Wipro Enterprises Rao & Co,29FDOUW3751Y3Z3,Karnataka,29,Visakhapatnam,wablenetra@example.net,172,77.52,8,Medium,True
+VND-314,Infosys BPO Baral & Co,23EVDAI9937U5Z3,Madhya Pradesh,23,Gandhidham,advik70@example.net,408,80.79,24,Medium,True
+VND-315,Reliance Industries Rai & Co,08TPGOG2636P3Z9,Rajasthan,8,Haridwar,yashasvi42@example.org,443,65.13,77,High,True
+VND-316,ITC Trading Malhotra & Co,24EKMEF4999H4Z4,Gujarat,24,Malegaon,janaki15@example.com,43,87.77,22,Medium,True
+VND-317,Hero Motors Sangha & Co,37RWXLU6873X9Z9,Andhra Pradesh,37,Phagwara,ridhi82@example.org,338,93.82,90,Low,True
+VND-318,Marico Distribution Pall & Co,06LWWGN9037B4Z5,Haryana,6,Sonipat,klad@example.com,235,80.31,50,Medium,True
+VND-319,Birla Corp Nigam & Co,27LKPBN1847D3Z9,Maharashtra,27,Rewa,dominic90@example.org,79,90.17,50,Low,True
+VND-320,Reliance Industries Amble & Co,36EPSFL2697W2Z2,Telangana,36,Siliguri,ranganathanneel@example.org,68,72.61,90,High,True
+VND-321,Mahindra Logistics Sehgal & Co,37NJUNY3379S3Z3,Andhra Pradesh,37,Cuttack,lukeseshadri@example.org,454,84.73,18,Medium,True
+VND-322,Tata Steel Kala & Co,10KITLQ1126I1Z8,Bihar,10,Anantapuram,ngokhale@example.com,264,90.0,63,Low,True
+VND-323,Cipla Pharma Prabhu & Co,23WGPMK0625T9Z4,Madhya Pradesh,23,Haridwar,peter85@example.net,35,91.49,23,Low,True
+VND-324,ITC Trading Handa & Co,09AWRVH9041V5Z9,Uttar Pradesh,9,Raichur,lsarkar@example.com,100,62.15,58,High,True
+VND-325,Mahindra Logistics Goyal & Co,32TIXVT8041I6Z9,Kerala,32,Loni,bakhshisankar@example.net,221,96.33,67,Low,True
+VND-326,Cipla Pharma Raja & Co,19BOZNC7677N6Z5,West Bengal,19,Anantapuram,ntiwari@example.org,279,87.14,73,Medium,True
+VND-327,Cipla Pharma Bassi & Co,32ONQME6790A8Z2,Kerala,32,Mahbubnagar,ukeer@example.org,387,96.16,26,Low,True
+VND-328,Godrej Distribution Venkataraman & Co,36JUFQR2035Y1Z2,Telangana,36,Jamshedpur,pratyush07@example.net,361,76.15,42,Medium,True
+VND-329,Dr Reddy Chemicals Vasa & Co,29QAEII6976P3Z8,Karnataka,29,Muzaffarnagar,tanejatheodore@example.net,466,75.45,68,Medium,True
+VND-330,Dabur India Ganguly & Co,29YBNOR5053Z6Z2,Karnataka,29,Kavali,obalay@example.com,86,78.04,35,Medium,True
+VND-331,HUL Supply Chain Sachar & Co,01QVOKP8773B5Z7,Jammu & Kashmir,1,Phusro,ektazachariah@example.com,54,73.23,63,High,True
+VND-332,Birla Corp Manda & Co,20FHCUU9404Q3Z4,Jharkhand,20,Faridabad,devansh96@example.com,184,74.49,61,High,True
+VND-333,Godrej Distribution Madan & Co,03DWVYR1747Q2Z1,Punjab,3,Jalandhar,radha25@example.org,169,72.1,5,High,True
+VND-334,Tata Steel Arora & Co,07CTTAT6222R6Z8,Delhi,7,Phagwara,wsoni@example.net,353,73.0,15,High,True
+VND-335,Adani Logistics Karpe & Co,21CYOCO5298S4Z3,Odisha,21,Aurangabad,ganeshzarna@example.org,46,65.82,39,High,True
+VND-336,Tata Steel Balakrishnan & Co,29DMRCB4155W8Z6,Karnataka,29,Latur,gabrielkata@example.com,169,81.08,42,Medium,True
+VND-337,Sun Pharma Hari & Co,19CXTOC8603U8Z8,West Bengal,19,Begusarai,oliver15@example.net,128,87.8,28,Medium,True
+VND-338,Cipla Pharma Chauhan & Co,09GJEXI8340D6Z8,Uttar Pradesh,9,Rohtak,elijah47@example.org,246,93.58,21,Low,True
+VND-339,Cipla Pharma Shroff & Co,27ONKSC5034S7Z4,Maharashtra,27,Guntur,lalyash@example.net,327,89.95,31,Medium,True
+VND-340,Hero Motors Rau & Co,23JIVPU4752V2Z8,Madhya Pradesh,23,Mau,radhika02@example.org,68,66.2,75,High,True
+VND-341,Infosys BPO Brar & Co,37VEYBC8734V1Z2,Andhra Pradesh,37,Bhind,omaja75@example.org,121,72.69,17,High,True
+VND-342,Wipro Enterprises Balay & Co,01LHQLF8276N6Z2,Jammu & Kashmir,1,Madanapalle,girik72@example.org,308,89.53,1,Medium,True
+VND-343,Wipro Enterprises Thakkar & Co,03WBXZA5912A4Z7,Punjab,3,Dibrugarh,riya57@example.org,369,75.76,75,Medium,True
+VND-344,HUL Supply Chain Sampath & Co,33KLFED5834J3Z3,Tamil Nadu,33,Bidhannagar,pbhatia@example.org,15,84.38,9,Medium,True
+VND-345,Hero Motors Shenoy & Co,01RZDDU8869T3Z8,Jammu & Kashmir,1,Nellore,ladli95@example.net,270,65.62,54,High,True
+VND-346,HUL Supply Chain Zacharia & Co,23JEPPW2545L1Z1,Madhya Pradesh,23,Ghaziabad,rjha@example.com,300,91.98,61,Low,True
+VND-347,Hero Motors Pau & Co,32ZCSNW7255T2Z4,Kerala,32,Guntakal,pahal36@example.com,251,64.41,80,High,True
+VND-348,Sun Pharma Sami & Co,07UIBIU4547N6Z5,Delhi,7,Tinsukia,chatreshbehl@example.org,158,86.68,21,Medium,True
+VND-349,Cipla Pharma Bhardwaj & Co,06TSOBM1098T1Z5,Haryana,6,Jorhat,megha15@example.net,258,87.11,10,Medium,True
+VND-350,Adani Logistics Dixit & Co,09GQHGT6976L3Z5,Uttar Pradesh,9,Agra,charhemal@example.org,410,79.72,89,Medium,True
+VND-351,Larsen & Toubro Soman & Co,20WICDY1497H8Z3,Jharkhand,20,Bahraich,jchhabra@example.org,117,78.91,73,Medium,True
+VND-352,Adani Logistics Johal & Co,32TDEKH7753W7Z8,Kerala,32,Ballia,vasatika56@example.net,144,62.12,18,High,True
+VND-353,Reliance Industries Tailor & Co,03HUJIN9053N5Z6,Punjab,3,Shahjahanpur,hiral97@example.com,148,93.94,34,Low,True
+VND-354,Dr Reddy Chemicals Tara & Co,08KUTTP1361R1Z1,Rajasthan,8,Malegaon,ydasgupta@example.org,435,69.96,8,High,True
+VND-355,Larsen & Toubro Gour & Co,01CLFHF0096G2Z2,Jammu & Kashmir,1,Srinagar,bimalaperi@example.org,54,76.04,77,Medium,True
+VND-356,Dr Reddy Chemicals Sridhar & Co,09UECEH6049Y7Z6,Uttar Pradesh,9,Hajipur,abhimanyu60@example.org,141,74.66,20,High,True
+VND-357,Tata Steel Sant & Co,07JIBYG4496F8Z2,Delhi,7,Guwahati,oviyanadkarni@example.com,83,70.81,69,High,True
+VND-358,Infosys BPO Master & Co,36XSCBO2481U1Z1,Telangana,36,Patna,omunshi@example.net,350,68.52,49,High,True
+VND-359,Godrej Distribution Bansal & Co,21XONYM4877R4Z1,Odisha,21,Korba,vmalhotra@example.org,206,65.91,88,High,True
+VND-360,Sun Pharma Dubey & Co,24YJRKQ9059C8Z5,Gujarat,24,Loni,dpandya@example.com,341,64.73,25,High,True
+VND-361,HUL Supply Chain Savant & Co,10RHKCR4841B4Z1,Bihar,10,Vijayawada,zkhare@example.com,378,81.62,75,Medium,True
+VND-362,Mahindra Logistics Sathe & Co,20UQMZV9033X1Z7,Jharkhand,20,Visakhapatnam,deepaacharya@example.com,70,79.08,27,Medium,True
+VND-363,Sun Pharma Ratti & Co,03DPYAD6490W3Z1,Punjab,3,Fatehpur,lkakar@example.org,98,77.88,80,Medium,True
+VND-364,Infosys BPO Sahni & Co,06LEPVC4728N6Z7,Haryana,6,Indore,sarthakchanda@example.net,176,95.28,15,Low,True
+VND-365,Bajaj Industries Kari & Co,23TPIDD4654S1Z3,Madhya Pradesh,23,Hubli–Dharwad,ravalarunima@example.net,61,65.36,80,High,True
+VND-366,Reliance Industries Sandhu & Co,33WCAYS5267P3Z4,Tamil Nadu,33,Yamunanagar,dakshesh36@example.com,83,90.33,81,Low,True
+VND-367,Dabur India Raghavan & Co,21GERPS6083N1Z9,Odisha,21,Morena,memonkashish@example.org,130,80.4,24,Medium,True
+VND-368,Infosys BPO Tiwari & Co,08QWZNM6201E8Z8,Rajasthan,8,Etawah,prasadhemang@example.net,100,98.48,20,Low,True
+VND-369,ITC Trading Nair & Co,06HLIUT0791Z1Z8,Haryana,6,Buxar,sanyanarang@example.net,273,62.11,14,High,True
+VND-370,Marico Distribution Nayar & Co,07PIFRI7307G7Z4,Delhi,7,Jehanabad,birwatika@example.net,47,94.91,60,Low,True
+VND-371,Dabur India Khare & Co,24DYLKD7692E1Z1,Gujarat,24,Bangalore,agateurmi@example.net,153,62.12,17,High,True
+VND-372,Marico Distribution Sheth & Co,08KTFHE7995R4Z2,Rajasthan,8,Malda,alkabhatt@example.org,220,93.21,66,Low,True
+VND-373,Bajaj Industries Swaminathan & Co,24PVHST2358S3Z1,Gujarat,24,Kharagpur,aroraamara@example.org,223,93.63,5,Low,True
+VND-374,Larsen & Toubro Bath & Co,06ANMUV4250X7Z4,Haryana,6,Bidar,lsarraf@example.org,77,98.66,45,Low,True
+VND-375,Mahindra Logistics Kade & Co,27ARELO5941W7Z3,Maharashtra,27,Medininagar,cbhatia@example.com,414,69.32,47,High,True
+VND-376,Reliance Industries Bhavsar & Co,37WBXIA4295Z4Z2,Andhra Pradesh,37,Munger,ishaan99@example.com,327,87.45,42,Medium,True
+VND-377,ITC Trading Sha & Co,06XCJQJ1507G3Z6,Haryana,6,Sultan Pur Majra,abalan@example.net,132,80.07,69,Medium,True
+VND-378,Dr Reddy Chemicals Ahuja & Co,08WSTTI8540L6Z8,Rajasthan,8,Satara,daminisarraf@example.org,258,85.31,64,Medium,True
+VND-379,Hero Motors Puri & Co,03SRNHQ7989C4Z8,Punjab,3,Tirunelveli,kramesh@example.org,54,92.35,10,Low,True
+VND-380,Birla Corp Mahajan & Co,33YCECD1290N9Z3,Tamil Nadu,33,Panvel,qchada@example.net,252,95.02,44,Low,True
+VND-381,Reliance Industries Palla & Co,36HBWGY6436K8Z9,Telangana,36,Ichalkaranji,narasimhanansh@example.com,441,77.31,70,Medium,True
+VND-382,Dr Reddy Chemicals Chana & Co,37DUEGM9703O3Z3,Andhra Pradesh,37,Kamarhati,ssodhi@example.com,374,77.86,68,Medium,True
+VND-383,HDFC Trade Murty & Co,27VSRDG0312F4Z9,Maharashtra,27,Tirupati,poojamittal@example.com,372,67.11,4,High,True
+VND-384,Wipro Enterprises Barad & Co,29JOEHX4414K3Z1,Karnataka,29,Ulhasnagar,xalak37@example.net,388,98.14,69,Low,True
+VND-385,Birla Corp Chand & Co,03MHYZO1594W2Z8,Punjab,3,Delhi,harrison50@example.net,470,72.92,5,High,True
+VND-386,Infosys BPO Toor & Co,09IKVLC0652Y5Z4,Uttar Pradesh,9,Danapur,jaimitter@example.net,21,86.44,10,Medium,True
+VND-387,Mahindra Logistics Cherian & Co,23ZKMPN0637N6Z7,Madhya Pradesh,23,Sri Ganganagar,laksh47@example.org,200,93.13,1,Low,True
+VND-388,Birla Corp Mahajan & Co,27ZWCSL9828N7Z3,Maharashtra,27,Naihati,tbail@example.org,437,73.45,75,High,True
+VND-389,Birla Corp Khatri & Co,07MWZBY7049N3Z9,Delhi,7,Tinsukia,yatan22@example.net,246,65.6,90,High,True
+VND-390,HUL Supply Chain Bhalla & Co,09HMVHP4727E5Z5,Uttar Pradesh,9,Lucknow,champak14@example.org,499,67.77,81,High,True
+VND-391,Birla Corp Nadig & Co,24KMRGD2907S8Z7,Gujarat,24,Nangloi Jat,adya64@example.org,454,64.84,33,High,True
+VND-392,Infosys BPO Banerjee & Co,24JTAGP1463B5Z6,Gujarat,24,Anand,oprashad@example.com,224,98.0,81,Low,True
+VND-393,Birla Corp Sem & Co,32NYNTE0758V5Z5,Kerala,32,Nadiad,vanya90@example.net,360,61.9,89,High,True
+VND-394,Dr Reddy Chemicals Deep & Co,32JDDHU4912Q4Z4,Kerala,32,Tiruchirappalli,maanavtella@example.org,417,63.74,71,High,True
+VND-395,Sun Pharma Chander & Co,03SUKXD1036E8Z9,Punjab,3,Hindupur,zaitranayar@example.com,400,93.0,43,Low,True
+VND-396,Reliance Industries Oza & Co,10TDDSR3294Y2Z2,Bihar,10,Kakinada,tellafalan@example.com,19,87.69,61,Medium,True
+VND-397,Infosys BPO Karan & Co,36ARPMX0300D4Z4,Telangana,36,Vijayawada,charchakradev@example.net,104,61.66,85,High,True
+VND-398,Wipro Enterprises Tandon & Co,32VYYJE5725D1Z9,Kerala,32,Kanpur,reyanshchowdhury@example.org,121,61.14,24,High,True
+VND-399,Sun Pharma Gade & Co,27ASYXW4616D3Z6,Maharashtra,27,Thiruvananthapuram,dhingrachandran@example.net,204,66.7,54,High,True
+VND-400,Dabur India Maharaj & Co,19CZDCD7750K8Z2,West Bengal,19,Kottayam,anshwadhwa@example.net,207,80.06,36,Medium,True
+VND-401,Birla Corp Andra & Co,37RVFKZ4888V6Z3,Andhra Pradesh,37,Tiruppur,olanka@example.org,16,83.42,86,Medium,True
+VND-402,HUL Supply Chain Patla & Co,24LRCDK5199C6Z4,Gujarat,24,Tirunelveli,divyabhatt@example.org,183,86.21,25,Medium,True
+VND-403,Dabur India Kaul & Co,33SHSPH7644T7Z8,Tamil Nadu,33,Dehri,dugarpranav@example.org,271,64.79,35,High,True
+VND-404,Infosys BPO Kanda & Co,09DMGYA7840F7Z6,Uttar Pradesh,9,Ozhukarai,ektakibe@example.org,88,89.95,38,Medium,True
+VND-405,Larsen & Toubro Singh & Co,08TUFRM2385Y1Z7,Rajasthan,8,Mumbai,tkala@example.com,460,89.65,15,Medium,True
+VND-406,HUL Supply Chain Kaul & Co,33LAERU8143M8Z2,Tamil Nadu,33,Rajpur Sonarpur,shravyapathak@example.org,301,77.55,86,Medium,True
+VND-407,Sun Pharma Sura & Co,24OMWNK4963J6Z1,Gujarat,24,Raipur,imane@example.org,24,85.74,75,Medium,True
+VND-408,ITC Trading Hegde & Co,06JTAXI0333V4Z4,Haryana,6,Baranagar,qdass@example.com,130,65.0,82,High,True
+VND-409,Mahindra Logistics Tandon & Co,27WCENA6454A8Z1,Maharashtra,27,Shimoga,lwason@example.org,172,83.11,48,Medium,True
+VND-410,Infosys BPO Virk & Co,33VCRIN7363N4Z8,Tamil Nadu,33,Bongaigaon,faraj80@example.com,335,72.57,9,High,True
+VND-411,Adani Logistics Nagy & Co,23BZKFT0803C9Z8,Madhya Pradesh,23,Amroha,sehgalfaris@example.org,228,68.35,26,High,True
+VND-412,Birla Corp Oak & Co,32NHRIK2565A9Z3,Kerala,32,Kulti,borasamesh@example.org,305,91.03,63,Low,True
+VND-413,Marico Distribution Varma & Co,19GQVWX9702O3Z4,West Bengal,19,Karaikudi,aviandra@example.net,87,85.77,87,Medium,True
+VND-414,Dabur India Kale & Co,27IVBFK8626M4Z2,Maharashtra,27,Phagwara,devansh72@example.net,86,92.92,24,Low,True
+VND-415,Birla Corp Pillay & Co,01MOLQA1128V9Z3,Jammu & Kashmir,1,Dibrugarh,venkateshgirindra@example.org,339,69.58,5,High,True
+VND-416,Tata Steel Palla & Co,24WCPWX4360X3Z4,Gujarat,24,Jorhat,ishitabava@example.com,67,90.51,73,Low,True
+VND-417,Larsen & Toubro Dube & Co,03RPUNM0573S7Z4,Punjab,3,Ichalkaranji,ekavirnanda@example.org,488,96.38,54,Low,True
+VND-418,HDFC Trade Shan & Co,19FHKWB5615P4Z5,West Bengal,19,Sambalpur,rachana15@example.com,460,65.63,18,High,True
+VND-419,ITC Trading Dubey & Co,32VAZPV6967H5Z9,Kerala,32,Amravati,merchantniharika@example.org,206,78.53,39,Medium,True
+VND-420,Infosys BPO Narayanan & Co,32NGLAY9939Y4Z5,Kerala,32,Shahjahanpur,gaurika89@example.com,117,95.22,20,Low,True
+VND-421,Dabur India Shankar & Co,37UHCUM7934D3Z5,Andhra Pradesh,37,Shimoga,aashidey@example.net,269,84.62,8,Medium,True
+VND-422,Sun Pharma Sarin & Co,32TLABQ6714U5Z6,Kerala,32,Tumkur,advikapatla@example.net,304,76.41,10,Medium,True
+VND-423,Larsen & Toubro Babu & Co,08STQDP4948E5Z3,Rajasthan,8,Hyderabad,auroraazaan@example.net,361,66.16,75,High,True
+VND-424,Bajaj Industries Deo & Co,29CJKJV5005T4Z2,Karnataka,29,Ratlam,vkapoor@example.org,246,91.18,25,Low,True
+VND-425,HDFC Trade Chaudry & Co,21BQPDY1505Y8Z8,Odisha,21,Bokaro,urvashimitra@example.com,70,87.35,28,Medium,True
+VND-426,Adani Logistics Rastogi & Co,19HMDWP9264N3Z1,West Bengal,19,Thiruvananthapuram,kundavedhika@example.com,158,67.43,33,High,True
+VND-427,Asian Paints Supply Johal & Co,20JRLAD3667W7Z5,Jharkhand,20,Durgapur,mdeshpande@example.net,47,84.09,12,Medium,True
+VND-428,Godrej Distribution Kar & Co,23YMJPR8780Q7Z5,Madhya Pradesh,23,Raiganj,mannjyoti@example.com,212,62.29,85,High,True
+VND-429,Sun Pharma Pall & Co,32BEEMI4074I2Z6,Kerala,32,Berhampore,netradyal@example.net,32,65.16,16,High,True
+VND-430,Adani Logistics Baral & Co,24TYHWP7238K8Z3,Gujarat,24,Surat,doshidevika@example.net,294,94.0,84,Low,True
+VND-431,Wipro Enterprises Edwin & Co,37BEMEM1844W9Z8,Andhra Pradesh,37,Alwar,kkara@example.org,244,62.08,63,High,True
+VND-432,Wipro Enterprises Shanker & Co,08DCWEE5285S1Z9,Rajasthan,8,Warangal,manya80@example.com,402,92.99,73,Low,True
+VND-433,Mahindra Logistics Wadhwa & Co,10GMCIH9139D6Z3,Bihar,10,Jamalpur,bdugar@example.com,24,76.24,10,Medium,True
+VND-434,Hero Motors Patil & Co,37LYPAZ6937X3Z4,Andhra Pradesh,37,Vadodara,ochada@example.net,451,92.4,6,Low,True
+VND-435,Tata Steel Sarna & Co,27TOPCG2730G3Z7,Maharashtra,27,Nadiad,chandani54@example.org,409,72.6,51,High,True
+VND-436,Wipro Enterprises Issac & Co,27DMLUI6168Q4Z8,Maharashtra,27,Avadi,jonathanrattan@example.org,238,85.24,49,Medium,True
+VND-437,Cipla Pharma Sahni & Co,24KTVPL4034H3Z8,Gujarat,24,Jorhat,shahyochana@example.net,279,70.47,80,High,True
+VND-438,Marico Distribution Hans & Co,03LXMDD9852B9Z2,Punjab,3,Dehri,madhavioommen@example.com,479,63.27,5,High,True
+VND-439,Dabur India Vohra & Co,03KMSVJ5707O3Z3,Punjab,3,Bally,farhan34@example.net,441,64.2,50,High,True
+VND-440,Birla Corp Madan & Co,06ISTLV3982C5Z2,Haryana,6,Vijayawada,laksh04@example.org,232,63.25,68,High,True
+VND-441,Infosys BPO Sarna & Co,01ARLKR7738T6Z7,Jammu & Kashmir,1,Sangli-Miraj & Kupwad,padmanabhannisha@example.net,421,60.23,38,High,True
+VND-442,Reliance Industries Dey & Co,07EVSEA4128Z9Z4,Delhi,7,Meerut,norirushil@example.net,54,64.88,38,High,True
+VND-443,Dabur India Borde & Co,37AEDSZ4852S7Z1,Andhra Pradesh,37,Agra,hsood@example.org,180,65.78,1,High,True
+VND-444,Dabur India Puri & Co,08ZWTPO2445T8Z4,Rajasthan,8,Pudukkottai,wallafitan@example.net,375,84.59,7,Medium,True
+VND-445,Dr Reddy Chemicals Mani & Co,03IBXKM4936A3Z5,Punjab,3,Moradabad,lchoudhury@example.net,381,60.74,24,High,True
+VND-446,Asian Paints Supply Sani & Co,24NPRXW7487M7Z6,Gujarat,24,Muzaffarnagar,badalansh@example.org,417,73.41,60,High,True
+VND-447,Birla Corp Hayer & Co,10RCMEE4794H4Z9,Bihar,10,Muzaffarpur,chandanikrishna@example.org,34,84.25,2,Medium,True
+VND-448,ITC Trading Banik & Co,32REWNU3125P5Z6,Kerala,32,Firozabad,ucchaldutt@example.org,411,94.36,45,Low,True
+VND-449,Sun Pharma Viswanathan & Co,06GDRNR7944Y2Z2,Haryana,6,New Delhi,rachitprakash@example.net,410,90.03,78,Low,True
+VND-450,Tata Steel Halder & Co,08NEDFJ7774D3Z6,Rajasthan,8,Satna,esachdev@example.com,181,92.12,17,Low,True
+VND-451,Marico Distribution Pant & Co,08ZTAVM2127N6Z4,Rajasthan,8,Nanded,vrindajha@example.net,87,93.1,67,Low,True
+VND-452,Wipro Enterprises Sundaram & Co,36UKKLW7301A9Z2,Telangana,36,Satara,sanyadeshpande@example.org,53,90.7,43,Low,True
+VND-453,HDFC Trade Thaker & Co,29LKAXD5997Q5Z7,Karnataka,29,Durg,jhaupkaar@example.org,215,75.66,87,Medium,True
+VND-454,Godrej Distribution Nori & Co,23XAHNX7425Z8Z6,Madhya Pradesh,23,Mirzapur,bhargavaanvi@example.com,464,94.07,83,Low,True
+VND-455,Birla Corp Malhotra & Co,33CNKSW5525J9Z6,Tamil Nadu,33,Faridabad,rameshtimothy@example.org,397,90.24,81,Low,True
+VND-456,Sun Pharma Jhaveri & Co,10PGUSZ1036L2Z1,Bihar,10,Motihari,pinglebaghyawati@example.net,397,60.91,83,High,True
+VND-457,Dr Reddy Chemicals Deshpande & Co,08TLZUZ5865T4Z6,Rajasthan,8,Vijayanagaram,mgera@example.com,163,77.5,36,Medium,True
+VND-458,Larsen & Toubro Nath & Co,09TCNFU4144C1Z7,Uttar Pradesh,9,Rourkela,girindrashetty@example.org,464,87.86,16,Medium,True
+VND-459,Mahindra Logistics Gill & Co,24JNPNK2444P7Z3,Gujarat,24,Karimnagar,rachita23@example.com,83,68.38,64,High,True
+VND-460,Marico Distribution Oza & Co,09DSWDF4793D7Z2,Uttar Pradesh,9,Adoni,kdate@example.com,71,78.91,47,Medium,True
+VND-461,Wipro Enterprises Pal & Co,27DHJHA1749J5Z4,Maharashtra,27,Coimbatore,sabharwalpriya@example.net,103,61.57,62,High,True
+VND-462,ITC Trading Tara & Co,01BBMIL3388E3Z9,Jammu & Kashmir,1,Phagwara,anita37@example.org,335,64.77,58,High,True
+VND-463,Wipro Enterprises Sarin & Co,37WIURK2359O5Z2,Andhra Pradesh,37,Agra,ayushman96@example.net,453,86.02,21,Medium,True
+VND-464,Birla Corp Gill & Co,01ODOFQ5051P9Z1,Jammu & Kashmir,1,Kanpur,ranakrishna@example.org,71,82.31,84,Medium,True
+VND-465,Reliance Industries Badal & Co,23HFVVP0535P1Z6,Madhya Pradesh,23,South Dumdum,nishaarora@example.org,233,67.01,23,High,True
+VND-466,Larsen & Toubro Murty & Co,36IGCCE1203N3Z1,Telangana,36,Naihati,girishnadkarni@example.com,324,60.94,41,High,True
+VND-467,Tata Steel Rai & Co,10HCDXG9802T4Z8,Bihar,10,Tadepalligudem,ijaya47@example.com,270,61.06,64,High,True
+VND-468,Adani Logistics Badami & Co,33BMKMK2829V2Z4,Tamil Nadu,33,Aurangabad,borraharrison@example.org,400,97.02,71,Low,True
+VND-469,Dabur India Dugal & Co,09LWNUD5129R8Z1,Uttar Pradesh,9,Pallavaram,nachiketwalla@example.com,10,71.88,59,High,True
+VND-470,HDFC Trade Dar & Co,27AYMPV3365Q5Z1,Maharashtra,27,Hosur,bhatiaguneet@example.com,92,85.47,68,Medium,True
+VND-471,HUL Supply Chain Doshi & Co,07SVSZW2588K5Z8,Delhi,7,North Dumdum,boaseeta@example.net,149,71.72,31,High,True
+VND-472,Marico Distribution Dar & Co,29YIXDX6001R8Z7,Karnataka,29,Madanapalle,tanish84@example.com,285,73.32,10,High,True
+VND-473,Marico Distribution Boase & Co,07RJVVJ1760O6Z4,Delhi,7,Yamunanagar,lallaanay@example.com,237,81.01,1,Medium,True
+VND-474,Adani Logistics Pillay & Co,20RSEVQ8299B5Z8,Jharkhand,20,Madhyamgram,kandajagat@example.com,473,88.98,90,Medium,True
+VND-475,HUL Supply Chain Dani & Co,19CHNEF7661S3Z2,West Bengal,19,Bongaigaon,parmeragastya@example.net,75,60.28,33,High,True
+VND-476,Adani Logistics Ghosh & Co,20ERZSN2549U1Z6,Jharkhand,20,Avadi,farispurohit@example.org,231,94.36,52,Low,True
+VND-477,Larsen & Toubro Aurora & Co,21MJTWF2440G6Z2,Odisha,21,Agra,wwason@example.org,460,64.75,73,High,True
+VND-478,Asian Paints Supply Chaudry & Co,01ZLBGE3604Z1Z6,Jammu & Kashmir,1,Madanapalle,dominicdua@example.net,440,98.62,32,Low,True
+VND-479,Asian Paints Supply Dave & Co,20YVVNG0540O2Z2,Jharkhand,20,New Delhi,rdeep@example.com,41,64.21,4,High,True
+VND-480,Mahindra Logistics Andra & Co,33UBUBP4100M7Z2,Tamil Nadu,33,Ghaziabad,dhingraanthony@example.org,326,72.22,52,High,True
+VND-481,Cipla Pharma Goyal & Co,20AJUWQ3974K4Z2,Jharkhand,20,Khandwa,jagratimuni@example.org,62,93.72,1,Low,True
+VND-482,Bajaj Industries Mane & Co,07XDNJM6110E5Z7,Delhi,7,Thane,madhavidani@example.org,272,83.12,83,Medium,True
+VND-483,Sun Pharma Ganesan & Co,32UDIIJ0560Q9Z1,Kerala,32,Raichur,natarajangeetika@example.org,226,72.14,44,High,True
+VND-484,Bajaj Industries Nigam & Co,19UIRSZ5359T5Z7,West Bengal,19,Ajmer,lbhagat@example.net,178,98.08,20,Low,True
+VND-485,Tata Steel Boase & Co,08MXQSM2478Z7Z4,Rajasthan,8,Panipat,fchaudhari@example.net,214,77.72,23,Medium,True
+VND-486,Mahindra Logistics Kant & Co,01JODLQ9391J3Z4,Jammu & Kashmir,1,Indore,madhav55@example.com,463,74.15,33,High,True
+VND-487,Sun Pharma Chander & Co,10GFEGC8168K4Z5,Bihar,10,Shivpuri,sridharraghav@example.net,243,73.25,30,High,True
+VND-488,HDFC Trade Hegde & Co,32YZZWW0197G9Z7,Kerala,32,Naihati,gagan57@example.com,365,91.57,47,Low,True
+VND-489,Asian Paints Supply Sheth & Co,29XTPWH1262E9Z8,Karnataka,29,Kolhapur,ira21@example.org,117,83.38,10,Medium,True
+VND-490,Cipla Pharma Agarwal & Co,24BNTQN4433W8Z8,Gujarat,24,Secunderabad,tmerchant@example.org,252,90.85,34,Low,True
+VND-491,Dr Reddy Chemicals Cherian & Co,33QFXLG2431L5Z9,Tamil Nadu,33,Madhyamgram,aaravbuch@example.com,53,84.89,17,Medium,True
+VND-492,Larsen & Toubro Mistry & Co,07JPMQL4483M1Z3,Delhi,7,Bikaner,tkrish@example.net,236,71.51,29,High,True
+VND-493,ITC Trading Pandey & Co,21XHNOC2213R4Z6,Odisha,21,Ambattur,brinda07@example.com,110,85.17,86,Medium,True
+VND-494,Adani Logistics Mody & Co,29EPDWS5272L7Z7,Karnataka,29,Rohtak,mgoel@example.net,430,69.75,74,High,True
+VND-495,Larsen & Toubro Goyal & Co,01ZYWFS2255O8Z6,Jammu & Kashmir,1,Solapur,rishidatta@example.net,415,78.41,10,Medium,True
+VND-496,Dabur India Pandya & Co,29USFLO3519A8Z6,Karnataka,29,Bidhannagar,isoni@example.net,183,92.99,28,Low,True
+VND-497,HUL Supply Chain Bal & Co,36TRHPO0199S7Z7,Telangana,36,Bidhannagar,gbiswas@example.net,114,76.6,50,Medium,True
+VND-498,Bajaj Industries Bhatt & Co,07MIZQH1618T8Z1,Delhi,7,Ghaziabad,frado16@example.net,105,80.85,25,Medium,True
+VND-499,HUL Supply Chain Amble & Co,07HGRBB5184F2Z3,Delhi,7,Kishanganj,nkhurana@example.com,284,95.54,53,Low,True
+VND-500,HUL Supply Chain Joshi & Co,24YWDFL7469S4Z9,Gujarat,24,Shimla,zbatta@example.org,376,88.98,87,Medium,True
